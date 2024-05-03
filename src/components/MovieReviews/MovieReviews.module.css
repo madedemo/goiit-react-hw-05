@@ -1,0 +1,18 @@
+.reviews_list {
+  list-style: none;
+  padding: 0;
+}
+
+.reviews_item {
+  margin-bottom: 20px;
+}
+
+.reviews_title {
+  margin: 0 0 10px;
+  font-size: 18px;
+}
+
+.reviews_text {
+  margin: 0;
+  font-size: 14px;
+}

@@ -1,0 +1,18 @@
+.movie_list {
+  list-style: none;
+  padding: 0;
+}
+
+.movie_list li {
+  margin-top: 10px;
+}
+
+.movie_list li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.movie_list li a:hover {
+  color: #007bff;
+  text-decoration: underline;
+}
